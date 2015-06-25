@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlashLight</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Flash Light</string>
+    <string name="controller">Control Panel</string>
+</resources>
